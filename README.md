@@ -1,1 +1,1 @@
-These are the python codes I built as part of my internship working on the Data Engineering part of an LLM building startup
+These are the python codes I built as part of my internship working on the Data Engineering part of an LLM building startup. These codes are tailored especially for the type of files we were working on and the data we needed to extract.
